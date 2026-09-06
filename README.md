@@ -8,10 +8,7 @@ Pertemuan: Pertemuan 2
 
 ---
 **Hasil Tampilan Aplikasi**
-| Halaman Profil Informatika |
 
-| :---: |
-
-| ![Tampilan Profil Informatika](screenshots/screenshot\_informatika.png) |
+| ![Tampilan Profil Informatika](screenshots/screenshot_informatika.png) |
 
 ---
