@@ -13,6 +13,8 @@ Pertemuan: Pertemuan 2
 ---
 **Hasil Tampilan Aplikasi**
 
-![Tampilan Profil Informatika](screenshots/screenshots_informatika.png)
+<p align="center">
+  <img src="screenshots/screenshots_informatika.png" alt="Tampilan Profil Informatika" width="280">
+</p>
 
 ---
