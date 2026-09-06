@@ -13,6 +13,6 @@ Pertemuan: Pertemuan 2
 ---
 **Hasil Tampilan Aplikasi**
 
-| ![Tampilan Profil Informatika](screenshots/screenshot_informatika.png) |
+![Tampilan Profil Informatika](screenshots/screenshots_informatika.png)
 
 ---
