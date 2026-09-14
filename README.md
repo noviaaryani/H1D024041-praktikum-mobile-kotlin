@@ -1,24 +1,24 @@
-\# Praktikum Pemrograman Mobile - Pertemuan 2
+# Praktikum Pemrograman Mobile - Pertemuan 1 - Tugas Gedung F Teknik
 
 
 
-\*\*Nama\*\*: Novia Rizky Aryani
+**Nama: Novia Rizky Aryani**
 
-\*\*NIM\*\*: H1D024041
+**NIM: H1D024041**
 
-\*\*Shift KRS\*\*: Shift C
+**Shift KRS: Shift C**
 
-\*\*Shift Baru\*\*: Shift F
+**Shift Baru: Shift F**
 
-\*\*Pertemuan\*\*: Pertemuan 2 
-
-
-
-\---
+**Pertemuan: Pertemuan 2**
 
 
 
-\## Hasil Tampilan Aplikasi
+---
+
+
+
+## Hasil Tampilan Aplikasi
 
 
 
@@ -26,11 +26,11 @@
 
 | :---: |
 
-| !\[Tampilan Profil Informatika](screenshots/screenshot\_informatika.png) |
+| ![Tampilan Profil Informatika](screenshots/screenshot\_informatika.png) |
 
 
 
-\---
+---
 
 
 
