@@ -6,9 +6,9 @@
 
 **NIM: H1D024041**
 
-**Shift KRS: Shift C**
+**Shift KRS: C**
 
-**Shift Baru: Shift F**
+**Shift Baru: F**
 
 
 
