@@ -24,7 +24,7 @@
 
 Halaman Profil Informatika
 
-| ![Tampilan Profil Informatika](screenshots/screenshot_informatika.png) |
+| ![Tampilan Profil Informatika](screenshots/screenshots_informatika.png) |
 
 
 
