@@ -22,11 +22,9 @@
 
 
 
-| Halaman Profil Informatika |
+Halaman Profil Informatika
 
-| :---: |
-
-| ![Tampilan Profil Informatika](screenshots/screenshot\_informatika.png) |
+| ![Tampilan Profil Informatika](screenshots/screenshot_informatika.png) |
 
 
 
