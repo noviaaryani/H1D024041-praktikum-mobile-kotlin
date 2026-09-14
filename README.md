@@ -14,29 +14,23 @@
 
 ---
 
+## Hasil Tampilan Aplikasi Jualan
 
+### 1. Tampilan Aplikasi Jualan (Pertemuan 2)
 
-## Hasil Tampilan Aplikasi Jualan 
+| Mode Terang (Home) | Mode Terang (Form) |
+| :---: | :---: |
+| ![Light Mode 1](screenshots/jualan-pertemuan-2-light-1.png) | ![Light Mode 2](screenshots/jualan-pertemuan-2-light-2.png) |
 
-
-1. Tampilan Aplikasi Jualan (Pertemuan 2)
-   
-| ![Tampilan Aplikasi Jualan Light Mode](screenshots/jualan - pertemuan 2 (light mode1).png) |
-
-| ![Tampilan Aplikasi Jualan (Hubungi Kami) Light Mode](screenshots/jualan - pertemuan 2 (light mode2).png) |
-
-| ![Tampilan Aplikasi Jualan Dark Mode](screenshots/jualan - pertemuan 2 (dark mode1).png) |
-
-| ![Tampilan Aplikasi Jualan (Hubungi Kami) Dark Mode](screenshots/jualan - pertemuan 2 (dark mode2).png) |
+| Mode Gelap (Home) | Mode Gelap (Form) |
+| :---: | :---: |
+| ![Dark Mode 1](screenshots/jualan-pertemuan-2-dark-1.png) | ![Dark Mode 2](screenshots/jualan-pertemuan-2-dark-2.png) |
 
 ---
 
-2. Tampilan Aplikasi Jualan (Pertemuan 1)
+### 2. Tampilan Aplikasi Jualan (Pertemuan 1)
 
-| ![Tampilan Aplikasi Jualan](screenshots/jualan - pertemuan 1.png) |
-
+![Pertemuan 1](screenshots/jualan-pertemuan-1.png)
 
 ---
-
-
 
