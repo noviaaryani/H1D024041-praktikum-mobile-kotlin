@@ -6,11 +6,9 @@
 
 **NIM: H1D024041**
 
-**Shift KRS: Shift C**
+**Shift KRS: C**
 
-**Shift Baru: Shift F**
-
-**Pertemuan: Pertemuan 2**
+**Shift Baru: F**
 
 
 
