@@ -19,8 +19,16 @@
 ### 1. Tampilan Aplikasi Jualan (Pertemuan 3 - Dynamic Lists with Lazy Layouts)
 
 | Preview Top Bar Aplikasi | Preview Category | Preview Product | Dark & Light Theme Preview |
+| :---: | :---: | :---: | :---: |
+| ![Preview Top Bar Aplikasi](screenshots/TopBarAplikasi.png) | ![Preview Category](screenshots/preview-category.png) | ![Preview Product](screenshots/preview-product.png) | ![Preview Dark Theme](screenshots/preview-dark-mode.png) | ![Preview Light Theme](screenshots/preview-light-mode.png) |
+
+| Dark Mode (Makanan) | Dark Mode (Minuman) | Dark Mode (Kerajinan) |
 | :---: | :---: | :---: |
-| ![Preview Top Bar Aplikasi](screenshots/TopBarAplikasi.png) | [Preview Category](screenshots/preview-category.png) | ![Preview Product](screenshots/preview-product.png) | ![Dark Theme Preview](screenshots/kategori-makanan-dark.png) ![Dark Theme Preview](screenshots/kategori-minuman-dark.png) ![Dark Theme Preview](screenshots/kategori-kerajinan-dark.png) | ![light Theme Preview](screenshots/kategori-makanan-light.png) ![light Theme Preview](screenshots/kategori-minuman-light.png) ![light Theme Preview](screenshots/kategori-kerajinan-light.png) |
+|  ![Dark Mode 1](screenshots/kategori-makanan-dark.png) | ![Dark Mode 2](screenshots/kategori-minuman-dark.png) ![Dark Mode 3](screenshots/kategori-kerajinan-dark.png) |
+
+| Light Mode (Makanan) | Light Mode (Minuman) | Light Mode (Kerajinan) | 
+| :---: | :---: | :---: |
+| ![light Mode 1](screenshots/kategori-makanan-light.png) ![light Mode 2](screenshots/kategori-minuman-light.png) ![light Mode 3](screenshots/kategori-kerajinan-light.png) |
 
 ### 2. Tampilan Aplikasi Jualan (Pertemuan 2 - Material Design: Components & Form)
 
