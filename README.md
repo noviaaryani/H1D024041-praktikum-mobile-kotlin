@@ -1,9 +1,11 @@
 # Praktikum Pemrograman Mobile
 
-**Nama: Novia Rizky Aryani**  
-**NIM: H1D024041**  
-**Shift KRS: C**  
-**Shift Baru: F**  
+| Biodata Mahasiswa | Keterangan |
+| :--- | :--- |
+| **Nama** | Novia Rizky Aryani |
+| **NIM** | H1D024041 |
+| **Shift KRS** | C |
+| **Shift Baru** | F |
 
 ---
 
