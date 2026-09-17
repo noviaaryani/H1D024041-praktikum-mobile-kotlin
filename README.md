@@ -18,8 +18,8 @@
 
 ### 1. Tampilan Aplikasi Jualan (Pertemuan 3 - Dynamic Lists with Lazy Layouts)
 
-| Preview Top Bar Aplikasi | Preview Category | Preview Product | Dark & Light Theme Preview |
-| :---: | :---: | :---: | :---: |
+| Preview Top Bar Aplikasi | Preview Category | Preview Product | Dark Theme Preview | Light Theme Preview |
+| :---: | :---: | :---: | :---: |:---: |
 | ![Preview Top Bar Aplikasi](screenshots/TopBarAplikasi.png) | ![Preview Category](screenshots/preview-category.png) | ![Preview Product](screenshots/preview-product.png) | ![Preview Dark Theme](screenshots/preview-dark-mode.png) | ![Preview Light Theme](screenshots/preview-light-mode.png) |
 
 | Dark Mode (Makanan) | Dark Mode (Minuman) | Dark Mode (Kerajinan) |
