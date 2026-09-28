@@ -11,7 +11,17 @@
 
 ## Hasil Tampilan Aplikasi Jualan
 
-### 1. Tampilan Aplikasi Jualan (Pertemuan 3 - Dynamic Lists with Lazy Layouts)
+### 1. Tampilan Aplikasi Jualan (Pertemuan 4 - Recomposition & UI Lifecycle)
+
+#### Demo Running Aplikasi
+
+| Demo Aplikasi (Recomposition, Search, State & Navigation) |
+| :---: |
+| <img src="screenshots/demo_jualan_pert 4.gif" width="280"> |
+
+---
+
+### 2. Tampilan Aplikasi Jualan (Pertemuan 3 - Dynamic Lists with Lazy Layouts)
 
 #### Preview Komponen & Tema
 
@@ -37,7 +47,7 @@
 
 ---
 
-### 2. Tampilan Aplikasi Jualan (Pertemuan 2 - Material Design: Components & Form)
+### 3. Tampilan Aplikasi Jualan (Pertemuan 2 - Material Design: Components & Form)
 
 | Mode Terang (Home) | Mode Terang (Form) |
 | :---: | :---: |
@@ -49,7 +59,7 @@
 
 ---
 
-### 3. Tampilan Aplikasi Jualan (Pertemuan 1 - Inisialisasi Project Android & Implementasi Function Sederhana)
+### 4. Tampilan Aplikasi Jualan (Pertemuan 1 - Inisialisasi Project Android & Implementasi Function Sederhana)
 
 | Tampilan Utama |
 | :---: |
